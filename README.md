@@ -1,5 +1,5 @@
 
-# EXP 2 Control-of-Relay-Using-IoT-controller
+# EXP 2: Control of Relay Using IoT controller
 ## NAME: JOTHILAKSHMI PALANI
 ## REG.NO: 212223110017
 ##  AIM:
@@ -53,20 +53,22 @@ void loop() {
 } 
 ```
 ## CIRCUIT DIAGRAM:
-<img width="1280" height="862" alt="Screenshot 2025-09-11 142002" src="https://github.com/user-attachments/assets/677a3ddb-cec9-49f3-b476-cb2888fdca7b" />
+![WhatsApp Image 2025-09-17 at 18 50 51_d456631b](https://github.com/user-attachments/assets/1eb85c52-dc45-4c5c-b2d5-0ec13cb6aa51)
+
 
 
 ## OUTPUT:
 ## LAMP OFF:
-<img width="1185" height="837" alt="Screenshot 2025-09-11 134310" src="https://github.com/user-attachments/assets/10b644a3-85d3-488d-a92a-5f62065519a0" />
+
+![WhatsApp Image 2025-09-17 at 18 52 20_ba18a705](https://github.com/user-attachments/assets/7494e2eb-b6ae-4379-8358-e3bd2267ebfa)
 
 
 
 ## LAMP ON:
 
-<img width="1185" height="830" alt="Screenshot 2025-09-11 133842" src="https://github.com/user-attachments/assets/1baa63de-fb60-4217-b89d-8972664bed0f" />
+![WhatsApp Image 2025-09-17 at 18 52 51_2a7541cc](https://github.com/user-attachments/assets/8f4bba3d-90ba-41d7-8390-6460df80cf10)
 
 
 ## RESULT:
 
-Thus the relay is controlled using Arduino controller.
+Thus, the relay is controlled using Arduino controller is done successfully.
