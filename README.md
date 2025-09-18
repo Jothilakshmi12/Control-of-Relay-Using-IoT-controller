@@ -62,8 +62,7 @@ delay(1000);
 ## OUTPUT:
 ## LAMP OFF:
 
-<img width="1118" height="782" alt="Screenshot 2025-09-18 092249" src="https://github.com/user-attachments/assets/538f67c2-97f4-421e-acdc-f0ec60e2b7ae" />
-
+<img width="1180" height="828" alt="Screenshot 2025-09-18 094006" src="https://github.com/user-attachments/assets/bb08e918-252a-45e0-8402-c65aadacebbc" />
 
 
 ## LAMP ON:
