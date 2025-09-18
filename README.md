@@ -41,32 +41,34 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 ```
-void setup() {
-  pinMode(7,OUTPUT);
+int relayPin=A0;
+
+void setup() { 
+  pinMode(relayPin, OUTPUT);
 }
 
 void loop() {
-  digitalWrite(7,HIGH);
-  delay(3000);
-  digitalWrite(7,LOW);
+  digitalWrite(relayPin, HIGH);
   delay(1000);
-} 
+  digitalWrite(relayPin, LOW); 
+delay(1000);
+}
 ```
 ## CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-09-17 at 18 50 51_d456631b](https://github.com/user-attachments/assets/1eb85c52-dc45-4c5c-b2d5-0ec13cb6aa51)
 
+<img width="1196" height="841" alt="Screenshot 2025-09-18 092736" src="https://github.com/user-attachments/assets/46866993-fe9e-46f6-ad72-cf7710558ff0" />
 
 
 ## OUTPUT:
 ## LAMP OFF:
 
-![WhatsApp Image 2025-09-17 at 18 52 20_ba18a705](https://github.com/user-attachments/assets/7494e2eb-b6ae-4379-8358-e3bd2267ebfa)
+<img width="1118" height="782" alt="Screenshot 2025-09-18 092249" src="https://github.com/user-attachments/assets/538f67c2-97f4-421e-acdc-f0ec60e2b7ae" />
 
 
 
 ## LAMP ON:
 
-![WhatsApp Image 2025-09-17 at 18 52 51_2a7541cc](https://github.com/user-attachments/assets/8f4bba3d-90ba-41d7-8390-6460df80cf10)
+<img width="1118" height="782" alt="Screenshot 2025-09-18 092313" src="https://github.com/user-attachments/assets/7a8c838f-2e1e-4028-9227-0fa797359bd8" />
 
 
 ## RESULT:
